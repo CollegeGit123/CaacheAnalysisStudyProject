@@ -1,0 +1,26 @@
+# Python virtual environment
+DSAvenv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# C++ executables
+*.exe
+
+# Build artifacts
+*.o
+*.obj
+
+# Temporary test files
+*_test.cpp
+
+# IDE / editor files
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
